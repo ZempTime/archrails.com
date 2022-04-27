@@ -2,10 +2,10 @@ source 'https://rubygems.org'
 
 ruby '2.3.0'
 
-gem 'rails', '~> 6.0', '>= 6.0.3.5'
+gem 'rails', '~> 5.2', '>= 5.2.7.1'
 gem 'pg', '~> 0.18'
 gem 'puma'
-gem 'sass-rails', '~> 5.0', '>= 5.0.8'
+gem 'sass-rails', '~> 5.0', '>= 5.0.5'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2.2'
 gem 'therubyracer', platforms: :ruby
@@ -18,7 +18,7 @@ gem 'redis', '~> 3.0'
 gem 'rails_12factor', group: :production
 
 gem 'bootstrap', '~> 4.0.0.alpha3'
-gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.4'
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.1.0'
