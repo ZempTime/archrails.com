@@ -17,7 +17,7 @@ gem 'redis', '~> 3.0'
 
 gem 'rails_12factor', group: :production
 
-gem 'bootstrap', '~> 4.0.0.alpha3'
+gem 'bootstrap', '~> 5.0.0.0'
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
 
 source 'https://rails-assets.org' do
